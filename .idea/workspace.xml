@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9549a9d5-eb5d-48af-958e-4fb656e20b15" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/dtos/ImageUpdateRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/controllers/ProductImageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/controllers/ProductImageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/controllers/SaleItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/controllers/SaleItemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/dtos/ItemDetailDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/dtos/ItemDetailDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/dtos/ProductImageDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/dtos/ProductImageDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/entities/SaleItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/entities/SaleItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/repositories/ProductImageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/repositories/ProductImageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/services/ProductImageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/services/ProductImageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/services/SaleItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/java/sit/int202/kp2itbmshop/services/SaleItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/KP2-ITBMshop/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ImageGallery.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/ImageGallery.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/SaleItemManager.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/SaleItemManager.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/AddEditSaleItemView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/AddEditSaleItemView.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="310a0NHfGF1UpuME4P9vslM39Bu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Kp2ItbMshopApplication.executor": "Run",
+    "git-widget-placeholder": "front-upload",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nine/Desktop/KP-2-Integrated-Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Kp2ItbMshopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="KP2-ITBMshop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sit.int202.kp2itbmshop.Kp2ItbMshopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.26775.15" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.26775.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9549a9d5-eb5d-48af-958e-4fb656e20b15" name="Changes" comment="" />
+      <created>1754663220541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754663220541</updated>
+      <workItem from="1754663221853" duration="9906000" />
+      <workItem from="1754679426150" duration="1750000" />
+      <workItem from="1754714792059" duration="10418000" />
+      <workItem from="1754733499557" duration="11593000" />
+      <workItem from="1754823289939" duration="48751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
